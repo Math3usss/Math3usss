@@ -1,4 +1,4 @@
 - 👋 OLà, meu nome é @Math3usss
 - 📫 Eu estou interessado em aprender a progamar novas linguagens.
 - 🌱 Eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch.
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
+https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525
