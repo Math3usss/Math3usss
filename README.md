@@ -1,4 +1,5 @@
 Olá eu sou o Matheus ⌨️
+Eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch.
 
 ![(sistema)](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![(gmail0](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
